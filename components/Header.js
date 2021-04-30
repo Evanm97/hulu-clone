@@ -5,7 +5,7 @@ import {
     LightningBoltIcon,
     SearchIcon,
     UserIcon,
-} from "@heroicons/react/outLine";
+} from "@heroicons/react/outline";
 import Image from "next/image";
 import HeaderItem from "./HeaderItem";
 import { useRouter } from "next/router"
